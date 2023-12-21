@@ -6,4 +6,4 @@ Based on the `hello_world` from Zephyr. Currently demonstrates:
 
 ## Dev Container
 
-Uses the `arm` image and STM32 for this example. Once the Dev Container is loaded, open a terminal and run `west build -b native_sim app`.
+Uses the `POSIX` image and `native_sim` for this example. Once the Dev Container is loaded, open a terminal and run `west build -b native_sim app`.
